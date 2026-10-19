@@ -87,7 +87,7 @@ Monthly market report with actions and owners; quarterly investment review.
 1. List the top 20 to 50 queries by impressions for each market.
 2. In Search Console, filter by the market's country and check which page ranks for each query.
 3. Mark a match when the page belongs to the intended locale.
-4. Match rate = matches ÷ queries checked.
+4. Match rate = matches \u00f7 queries checked.
 5. Investigate any market below about 90%; common causes are missing return tags, cross-language canonicals and same-language versions with no local differences.
 
 ## Investment review questions
